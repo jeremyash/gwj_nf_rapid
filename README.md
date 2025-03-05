@@ -1,1 +1,1 @@
-# gwj_nf_rapid
+# George Washington and National Forests Rapid Assessment
